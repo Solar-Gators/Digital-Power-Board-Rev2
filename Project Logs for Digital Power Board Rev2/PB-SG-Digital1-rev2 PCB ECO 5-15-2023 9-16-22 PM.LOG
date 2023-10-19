@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=C1 Old Footprint=CAPR5-4X5 New Footprint=CAPPRD500W60D1300H2200
+Change Component Comment : Designator=C1 Old Comment=Cap Pol1 New Comment=47uF
+Change component parameters: Designator = "C1" ("C1"); Footprint = "CAPR5-4X5"; UniqueID = "\KPMKCKSI" ("\KPMKCKSI")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "UCS2E470MHD1TO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ucs2e470mhd1to/nichicon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.nichicon.co.jp/english/products/pdfs/e-ucs.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "22mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Nichicon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "UCS2E470MHD1TO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "647-UCS2E470MHD1TO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=647-UCS2E470MHD1TO"; VariantName = "[No Variations]"

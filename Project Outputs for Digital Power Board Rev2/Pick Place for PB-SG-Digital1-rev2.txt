@@ -1,0 +1,107 @@
+Altium Designer Pick and Place Locations
+C:\Users\8jcm0\Documents\Senior\PCB Rev2\Digital Power Board Rev2\Project Outputs for Digital Power Board Rev2\Pick Place for PB-SG-Digital1-rev2.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       15/05/23
+Time:       22:00
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment                     Layer    Footprint               Center-X(mil) Center-Y(mil) Rotation Description                                                            
+C12        22uF                        TopLayer CAPC3225X270N           4280.000      380.000       270      C65428                                                                 
+C10        22uF                        TopLayer CAPC3225X270N           4280.000      860.000       270      C65428                                                                 
+""         61300211121                 TopLayer 61300211121             1860.000      80.000        360      "THT Vertical Pin Header WR-PHD, Pitch 2.54 mm, Single Row, 2 pins"    
+R34        120                         TopLayer RESC3116X65N            540.000       420.000       270      "C17957  Resistor"                                                     
+R33        500                         TopLayer RESC2012X60N            3460.630      820.000       0        "C2828857  0805W8J0102T5E"                                             
+5V_ON      "Green LED - 5V"            TopLayer SMLMN2ECTT86C           3240.630      820.000       90       "C2297   LED"                                                          
+R1         100k                        TopLayer RESC3116X65N            3500.000      2400.000      270      "C406727   Resistor"                                                   
+H4         "Hole 3mm"                  TopLayer Hole_3mm                4320.000      120.000       0        ""                                                                     
+H3         "Hole 3mm"                  TopLayer Hole_3mm                120.000       120.000       0        ""                                                                     
+H2         "Hole 3mm"                  TopLayer Hole_3mm                4320.000      4520.000      0        ""                                                                     
+H1         "Hole 3mm"                  TopLayer Hole_3mm                120.000       4520.000      0        ""                                                                     
+Vm         "Green LED - Vm"            TopLayer SMLMN2ECTT86C           966.260       700.000       270      "C2297   LED"                                                          
+Vs         "Green LED - Vs"            TopLayer SMLMN2ECTT86C           966.260       560.000       270      "C2297   LED"                                                          
+STM_OK     "Green LED - STM OK"        TopLayer SMLMN2ECTT86C           966.260       420.000       270      "C2297   LED"                                                          
+3.3V_ON    "Green LED - 3.3V"          TopLayer SMLMN2ECTT86C           3240.630      980.000       90       "C2297   LED"                                                          
+CAN_FLT    "Red LED - CAN FAULT"       TopLayer CSL1901UW1              912.480       960.000       0        "LED  C2286"                                                           
+ERROR      "Red LED - ERROR"           TopLayer CSL1901UW1              912.480       840.000       0        "LED  C2286"                                                           
+S1         1825232-1                   TopLayer 18252321                1400.000      140.000       360      Switch                                                                 
+R32        0.01                        TopLayer RESC6432X145N           3980.000      2500.000      180      Resistor                                                               
+R31        0.01                        TopLayer RESC6432X145N           3385.000      4266.772      180      Resistor                                                               
+R30        100k                        TopLayer RESC2012X60N            2480.000      320.000       360      "C96346   
+RC0805FR-07100KL"                                          
+R29        352k                        TopLayer RESC2012X60N            2300.000      320.000       360      "C422745   0805W8F3523T5E"                                             
+R28        200                         TopLayer RESC2012X60N            742.598       980.000       180      "C17540  RTT05101JTP"                                                  
+R27        200                         TopLayer RESC2012X60N            742.598       840.000       180      "C17540  RTT05101JTP"                                                  
+R26        200                         TopLayer RESC2012X60N            740.000       700.000       180      "C17540  RTT05101JTP"                                                  
+R25        200                         TopLayer RESC2012X60N            737.402       560.000       180      "C17540  RTT05101JTP"                                                  
+R24        200                         TopLayer RESC2012X60N            740.000       460.000       180      "C17540  RTT05101JTP"                                                  
+R23        200                         TopLayer RESC2012X60N            3460.630      980.000       0        "C17540  RTT05101JTP"                                                  
+R15        180k                        TopLayer RESC2012X60N            3200.000      577.402       270      C17501                                                                 
+R14        249k                        TopLayer RESC1005X40N            3918.347      560.000       360      C163476                                                                
+R13        34k                         TopLayer ERJS02_U02_(0402)       4120.177      580.000       0        C412507                                                                
+R11        9.31k                       TopLayer RESC1005X40N            4278.346      500.000       360      C881302                                                                
+R10        154k                        TopLayer RESC1005X40N            3960.000      1060.000      360      C226791                                                                
+R9         34k                         TopLayer ERJS02_U02_(0402)       4120.000      1060.000      360      C412507                                                                
+R7         9.31k                       TopLayer RESC1005X40N            4280.000      980.000       0        C881302                                                                
+Q7         AO4407A                     TopLayer SOIC127P600X175-8N      3400.000      3680.000      90       C16072                                                                 
+Q4         AO4407A                     TopLayer SOIC127P600X175-8N      3000.000      500.000       90       C16072                                                                 
+Q3         AO4407A                     TopLayer SOIC127P600X175-8N      3460.000      620.000       360      C16072                                                                 
+Q2         IPP016N06NF2SAKMA1          TopLayer TO254P475X1028X1996-3P  1900.000      3860.000      180      "MOSFET (N-Channel)"                                                   
+Q1         IPP016N06NF2SAKMA1          TopLayer TO254P475X1028X1996-3P  2680.000      3860.000      180      "MOSFET (N-Channel)"                                                   
+PS1        CN100A110-12                TopLayer CN50A1105CO             2161.653      2400.000      360      "Power Supply"                                                         
+""         "Mplab SNAP"                TopLayer HDR1X8                  2430.000      80.000        180      "Header, 8-Pin"                                                        
+L2         2.2uH                       TopLayer LVS505040-2R2M-N        3900.000      390.866       180      C280539                                                                
+L1         2.2uH                       TopLayer LVS505040-2R2M-N        3920.000      889.134       180      C280539                                                                
+""         Jumper                      TopLayer AXIAL-0.4               2160.000      4200.000      270      Resistor                                                               
+""         Jumper                      TopLayer AXIAL-0.4               1600.000      4200.000      90       Resistor                                                               
+""         Jumper                      TopLayer AXIAL-0.4               2960.000      4200.000      270      Resistor                                                               
+""         Jumper                      TopLayer AXIAL-0.4               2400.000      4200.000      90       Resistor                                                               
+J5         47346-0001                  TopLayer 47346-0001              3447.028      152.362       180      C132560                                                                
+J4         SHF-105-01-F-D-SM-K-TR      TopLayer SHF10501FDSMKTR         2400.000      860.000       360      Connector                                                              
+J3         34830-0801                  TopLayer MOLEX_34830-0801        4151.102      3511.103      90       "Connector Header Through Hole, Right Angle 8 position 0.138 (3.50mm)" 
+J2         34830-0801                  TopLayer MOLEX_34830-0801        298.150       3262.283      270      "Connector Header Through Hole, Right Angle 8 position 0.138 (3.50mm)" 
+J1         34830-0801                  TopLayer MOLEX_34830-0801        298.150       1300.000      270      "Connector Header Through Hole, Right Angle 8 position 0.138 (3.50mm)" 
+IC9        STM32F072RBT6               TopLayer QFP50P1200X1200X160-64N 1720.000      740.000       90       "C46046 Integrated Circuit"                                            
+IC8        TCAN1042VDRQ1               TopLayer SOIC127P600X175-8N      813.228       195.000       180      "Integrated Circuit"                                                   
+IC7        INA181A3IDBVT               TopLayer SOT95P280X145-6N        3991.811      2320.000      180      C129285                                                                
+IC6        INA181A3IDBVT               TopLayer SOT95P280X145-6N        3385.000      4066.772      180      C129285                                                                
+IC5        USBLC6-2SC6                 TopLayer SOT95P280X145-6N        3460.000      390.787       90       C5180249                                                               
+IC4        TPS629206QDRLRQ1            TopLayer SOTFL50P160X60-8N       4110.000      453.110       0        "Integrated Circuit"                                                   
+IC3        TPS629206QDRLRQ1            TopLayer SOTFL50P160X60-8N       4110.158      940.000       0        "Integrated Circuit"                                                   
+IC2        LM74610QDGKRQ1              TopLayer Smart_Diode             1908.583      3567.206      360      "Integrated Circuit"                                                   
+IC1        LM74610QDGKRQ1              TopLayer Smart_Diode             2678.583      3577.206      360      "Integrated Circuit"                                                   
+F5         1812L200_12DR               TopLayer 1812L010DR              3040.000      120.000       360      "C209723 Resettable Fuse"                                              
+F4         "12V Ouput Fuse"            TopLayer 3557-2                  3820.000      3140.000      270      Connector                                                              
+F3         "Supp Batt Fuse"            TopLayer 3557-2                  3820.000      4000.000      90       Connector                                                              
+F2         "12V Converter Output Fuse" TopLayer 3557-2                  4000.000      2040.000      360      "3557-2 Fuse Holder"                                                   
+F1         "100V Input Fuse"           TopLayer 3557-2                  920.000       3920.000      360      "3557-2 Fuse Holder"                                                   
+D3         SCS210AMC                   TopLayer TO508P470X1016X1905-2P  1880.000      4400.000      180      "Schottky Diode"                                                       
+D2         SCS210AMC                   TopLayer TO508P470X1016X1905-2P  2680.000      4400.000      180      "Schottky Diode"                                                       
+D1         "Diode 1N4148"              TopLayer DO-35                   760.000       3100.000      360      "High Conductance Fast Diode"                                          
+C30        1uF                         TopLayer CAPC2012X95N            1780.000      380.000       180      "C24123   Capacitor  CL21B105KOFNNNE"                                  
+C29        10uF                        TopLayer CAPC2012X95N            1780.000      300.000       180      "C84416   Capacitor  GRM21BR61E106KA73L"                               
+C28        4.7uF                       TopLayer CAPC2012X95N            1520.000      1060.000      180      "C1779   Capacitor  CL21A475KAQNNNE"                                   
+C27        4.7uF                       TopLayer CAPC2012X95N            1400.000      551.102       270      "C1779   Capacitor  CL21A475KAQNNNE"                                   
+C26        100nF                       TopLayer CAPC2012X95N            1520.000      1140.000      180      "C49678   Capacitor"                                                   
+C25        100nF                       TopLayer CAPC2012X95N            2040.000      568.898       270      "C49678   Capacitor"                                                   
+C24        100nF                       TopLayer CAPC2012X95N            2040.000      920.000       90       "C49678   Capacitor"                                                   
+C23        100nF                       TopLayer CAPC2012X95N            1320.000      551.102       270      "C49678   Capacitor"                                                   
+C18        100nF                       TopLayer CAPC1005X55N            3851.811      2280.000      180      C129131                                                                
+C17        100nF                       TopLayer CAPC1005X55N            3246.890      4026.772      180      C129131                                                                
+C15        100nF                       TopLayer CAPC1005X55N            1020.000      220.000       360      C129131                                                                
+C14        100nF                       TopLayer CAPC1005X55N            600.000       280.000       180      C129131                                                                
+C13        22uF                        TopLayer CAPC2012X145N           3733.740      512.677       90       C45783                                                                 
+C11        22uF                        TopLayer CAPC2012X145N           3760.000      1000.000      90       C45783                                                                 
+C9         100pF                       TopLayer CAPC1005X55N            2100.000      3600.000      0        "C26409   CL05C101JB5NNNC"                                             
+C8         2.2uF                       TopLayer CAPC2012X95N            1900.000      3420.000      180      "C19110   Capacitor  CL21B225KAFNNNE"                                  
+C7         100pF                       TopLayer CAPC1005X55N            1720.000      3500.000      270      "C26409   CL05C101JB5NNNC"                                             
+C6         100pF                       TopLayer CAPC1005X55N            2880.000      3620.000      0        "C26409   CL05C101JB5NNNC"                                             
+C5         2.2uF                       TopLayer CAPC2012X95N            2680.000      3440.000      180      "C19110   Capacitor  CL21B225KAFNNNE"                                  
+C4         100pF                       TopLayer CAPC1005X55N            2500.000      3520.000      270      "C26409   CL05C101JB5NNNC"                                             
+C3         "Cap Pol1"                  TopLayer CAPPRD750W80D1600H2700  3920.000      1532.362      270      "Polarized Capacitor (Radial)"                                         
+C2         2.2uF                       TopLayer CAPC2012X95N            3500.000      2580.000      90       "C19110   Capacitor  CL21B225KAFNNNE"                                  
+C1         47uF                        TopLayer CAPPRD500W60D1300H2200  965.000       3455.000      180      "Capacitor Polarised UCS2E470MHD1TO"                                   

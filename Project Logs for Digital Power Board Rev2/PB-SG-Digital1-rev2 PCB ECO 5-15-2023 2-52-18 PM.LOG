@@ -1,0 +1,22 @@
+Change Component Footprint: Designator=R31 Old Footprint=RESM11670X254N New Footprint=RESC6432X145N
+Change Component Footprint: Designator=R32 Old Footprint=RESM11670X254N New Footprint=RESC6432X145N
+Change Component Comment : Designator=R31 Old Comment=0.007 New Comment=0.01
+Change Component Comment : Designator=R32 Old Comment=0.007 New Comment=0.01
+Change component parameters: Designator = "R31" ("R31"); Footprint = "RESM11670X254N"; UniqueID = "\GOZEUPGD" ("\GOZEUPGD")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "CSNL2512FT10L0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/csnl2512ft10l0/stackpole-electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://cs.seielect.com/catalog/SEI-CSNL.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.45mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CSNL2512FT10L0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R32" ("R32"); Footprint = "RESM11670X254N"; UniqueID = "\EYEONFLU" ("\EYEONFLU")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "CSNL2512FT10L0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/csnl2512ft10l0/stackpole-electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://cs.seielect.com/catalog/SEI-CSNL.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.45mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CSNL2512FT10L0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
